@@ -50,6 +50,6 @@ projecte8/
 
 ### Tasques
 - [Tasca 01](T01/README.md)
-- [Tasca 02](T02/README.md)
+- [Tasca 02](T02/solucio.md)
 
 [Tornar a la presentació personal](https://github.com/ArnauDominguez)
