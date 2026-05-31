@@ -49,7 +49,7 @@ projecte8/
     - Un cop hàgiu completat la creació de les carpetes i actualitzat el vostre README.md, ja podeu eliminar aquesta secció d'instruccions per a una millor presentació del vostre projecte.
 
 ### Tasques
-- [Tasca 01](T01/README.md)
+- [Tasca 01](T01/INFORMETÈCNIC_PLADETRANSFORMACIÓDIGITAL.md)
 - [Tasca 02](T02/README.md)
 
 [Tornar a la presentació personal](https://github.com/ArnauDominguez)
