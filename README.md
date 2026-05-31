@@ -47,3 +47,8 @@ projecte8/
 
 1. **Esborrar secció instruccions:**
     - Un cop hàgiu completat la creació de les carpetes i actualitzat el vostre README.md, ja podeu eliminar aquesta secció d'instruccions per a una millor presentació del vostre projecte.
+
+### Tasques
+- [Tasca 01](T01/README.md)
+- [Tasca 02](T02/README.md)
+
