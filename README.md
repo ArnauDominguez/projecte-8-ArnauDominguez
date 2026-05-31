@@ -52,3 +52,4 @@ projecte8/
 - [Tasca 01](T01/README.md)
 - [Tasca 02](T02/README.md)
 
+[Tornar a la presentació personal](https://github.com/ArnauDominguez)
